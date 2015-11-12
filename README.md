@@ -1,2 +1,2 @@
 # shared
-# this a repository with shared resources and tools
+# this a repository with shared resources and tools...
